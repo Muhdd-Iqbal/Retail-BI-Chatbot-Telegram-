@@ -6,6 +6,7 @@ Dataset: Retail Sales Dataset (Kaggle)
 Data has been modified by adjusting date/year fields for simulation and analytical purposes.
 
 Description:
+
 API_KEY:
   - GEMINI_API
   - TOKEN_TELE_BOT (TELEGRAM)

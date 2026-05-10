@@ -54,13 +54,6 @@ Rules:
 - Keep the response under 5 short sentences.
 - If the data is insufficient, clearly mention the limitation.
 
-Attachment:
-
-<img width="738" height="1600" alt="UI Chatbot 1" src="https://github.com/user-attachments/assets/d117f76d-119c-456a-8c4e-ac19fc0cecf2" />
-
-<img width="738" height="1600" alt="UI Chatbot 2" src="https://github.com/user-attachments/assets/b77a4368-e9f5-4ea8-877c-5ad1420911ee" />
-
-
 Tools:
 - Python
 - LangChain
@@ -72,5 +65,14 @@ Tools:
 Support:
 - Retail sales dataset (dummy data)
 - Documentation about knowledge about retail sales, customer segmentation and others.
+
+
+Attachment:
+
+<img width="438" height="700" alt="UI Chatbot 1" src="https://github.com/user-attachments/assets/d117f76d-119c-456a-8c4e-ac19fc0cecf2" />
+
+<img width="438" height="700" alt="UI Chatbot 2" src="https://github.com/user-attachments/assets/b77a4368-e9f5-4ea8-877c-5ad1420911ee" />
+
+
 
 

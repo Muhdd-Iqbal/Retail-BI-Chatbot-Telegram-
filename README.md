@@ -2,6 +2,7 @@
 An AI-powered chatbot that helps business, sales, and others teams quickly analyze sales and customer data through simple conversations on Telegram.
 
 Dataset: Retail Sales Dataset (Kaggle)
+
 Data has been modified by adjusting date/year fields for simulation and analytical purposes.
 
 Description:

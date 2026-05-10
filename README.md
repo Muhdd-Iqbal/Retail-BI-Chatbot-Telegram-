@@ -1,5 +1,11 @@
 # Retail-BI-Chatbot-Telegram-
-An AI-powered chatbot that helps business, sales, and others teams quickly analyze sales and customer data through simple conversations on Telegram.
+An AI-powered chatbot that helps business, sales, and others teams quickly analyze sales and customer data through simple conversations on Telegram. 
+
+This project is a prototype of an AI-powered Business Intelligence Chatbot designed to assist business, sales, and marketing teams in analyzing retail sales and customer data through natural language conversations.
+
+The system leverages a RAG (Retrieval-Augmented Generation) approach, combining structured sales data insights with retail business knowledge to generate contextual, data-driven responses.
+
+This solution is intended as a proof-of-concept that demonstrates how LLMs can be applied in real-world business scenarios to support faster decision-making, customer understanding, and sales performance analysis.
 
 Dataset: Retail Sales Dataset (Kaggle)
 

@@ -57,10 +57,12 @@ Attachment:
 
 
 Tools:
-- Google Colab
-- Python Programming
-- Telegram
-- GEMINI API and TELEGRAM TOKEN
+- Python
+- LangChain
+- ChromaDB
+- Gemini LLM
+- Telegram Bot API
+- Pandas analysis
 
 Support:
 - Retail sales dataset (dummy data)

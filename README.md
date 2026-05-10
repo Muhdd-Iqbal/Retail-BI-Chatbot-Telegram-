@@ -34,6 +34,7 @@ Generate Insight + Recommendation
 Send Response to Telegram
 
 Prompt:
+
 You are a Business Intelligence Analyst specializing in retail sales.
 
 Rules:
